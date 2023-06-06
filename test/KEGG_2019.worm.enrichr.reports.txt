@@ -1,0 +1,4 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Z-score	Combined Score	Genes
+KEGG_2019	ABC transporters	24/25	0.000000e+00	0.000000e+00	0.000000e+00	0.000000e+00	-1.833122e+00	3.293503e+02	pgp-2;pmp-3;mrp-2;pgp-3;pmp-2;mrp-5;pgp-1;pmp-4;pgp-12;pgp-11;pgp-14;pmp-1;pgp-13;haf-7;haf-6;haf-4;mrp-1;pgp-4;pgp-5;abt-2;abt-4;abtm-1;hmt-1;pgp-9
+KEGG_2019	Peroxisome	4/76	1.930954e-06	2.896431e-06	2.175136e-03	3.262704e-03	-1.309132e+00	1.722490e+01	pmp-3;pmp-2;pmp-4;pmp-1
+KEGG_2019	Lysosome	2/99	6.236007e-03	6.236007e-03	1.604456e-01	1.604456e-01	-1.195751e+00	6.071326e+00	haf-7;haf-4

@@ -1,0 +1,15 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2016	Rap1 signaling pathway Homo sapiens hsa04015	2/211	1.357442e-02	9.736903e-02	0	0	1.261499e+01	5.423901e+01	EFNA1;CSF1
+KEGG_2016	Ras signaling pathway Homo sapiens hsa04014	2/227	1.559189e-02	9.736903e-02	0	0	1.170844e+01	4.871889e+01	EFNA1;CSF1
+KEGG_2016	Cytokine-cytokine receptor interaction Homo sapiens hsa04060	2/265	2.086479e-02	9.736903e-02	0	0	9.997465e+00	3.868711e+01	CSF1;IL13RA1
+KEGG_2016	PI3K-Akt signaling pathway Homo sapiens hsa04151	2/341	3.329849e-02	1.165447e-01	0	0	7.726254e+00	2.628659e+01	EFNA1;CSF1
+KEGG_2016	Cytosolic DNA-sensing pathway Homo sapiens hsa04623	1/64	5.304983e-02	1.287106e-01	0	0	1.976190e+01	5.803130e+01	TMEM173
+KEGG_2016	RIG-I-like receptor signaling pathway Homo sapiens hsa04622	1/70	5.788506e-02	1.287106e-01	0	0	1.803804e+01	5.139572e+01	TMEM173
+KEGG_2016	Hematopoietic cell lineage Homo sapiens hsa04640	1/88	7.225170e-02	1.287106e-01	0	0	1.429310e+01	3.755655e+01	CSF1
+KEGG_2016	Rheumatoid arthritis Homo sapiens hsa05323	1/90	7.383520e-02	1.287106e-01	0	0	1.397051e+01	3.640602e+01	CSF1
+KEGG_2016	TNF signaling pathway Homo sapiens hsa04668	1/110	8.953094e-02	1.287106e-01	0	0	1.139564e+01	2.749963e+01	CSF1
+KEGG_2016	Axon guidance Homo sapiens hsa04360	1/127	1.026751e-01	1.287106e-01	0	0	9.849702e+00	2.241975e+01	EFNA1
+KEGG_2016	Osteoclast differentiation Homo sapiens hsa04380	1/132	1.065070e-01	1.287106e-01	0	0	9.471374e+00	2.121157e+01	CSF1
+KEGG_2016	Ubiquitin mediated proteolysis Homo sapiens hsa04120	1/137	1.103234e-01	1.287106e-01	0	0	9.120864e+00	2.010548e+01	HERC1
+KEGG_2016	Jak-STAT signaling pathway Homo sapiens hsa04630	1/158	1.261854e-01	1.358920e-01	0	0	7.892516e+00	1.633753e+01	IL13RA1
+KEGG_2016	Metabolic pathways Homo sapiens hsa01100	1/1239	6.629862e-01	6.629862e-01	0	0	9.463348e-01	3.889447e-01	CMBL
